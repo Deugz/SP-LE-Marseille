@@ -71,16 +71,21 @@ html_theme_options = {
     "external_links": [
         {
             "url": "https://deugz.github.io/SP-LE-Mar-CDUI/build/html/index.html",
-            "name": "💻 TP-CDUI",
+            "name": "💻 TP - CDUI",
             "attributes": {"target": "_blank"},
         },
         {
             "url": "https://deugz.github.io/SP-LE-Mar-CDUI/build/html/index.html",
-            "name": "📈 Master Marketing",
+            "name": "📈 Msc -  Marketing",
+            "attributes": {"target": "_blank"},
+        },
+        {
+            "url": "https://deugz.github.io/jb-CDC-3A/_build/html/intro.html",
+            "name": "✍ CDC",
             "attributes": {"target": "_blank"},
         },
     ],
-    "header_links_before_dropdown": 3,    
+    "header_links_before_dropdown": 4,    
     "icon_links": [
         {
             "name": "Drive",

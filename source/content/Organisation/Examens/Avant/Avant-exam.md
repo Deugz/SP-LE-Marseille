@@ -1,5 +1,21 @@
 # Avant
 
+## Organiser la Session
+
+- Demande de DTE dans le délai réglementaire de 92 jours avant le début des épreuves.
+
+Ce délai de 92 jours est incompressible, et de plus répond aux nouvelles directives de la [DGEFP](https://lannuaire.service-public.fr/gouvernement/ca9d0a5d-896a-4473-ac9c-5f619b0a12ad).
+
+- Vous devez saisir la date de session dans CERES et commander les DTE en respectant le délai de 92 jours.
+
+### Inscrire La session sur CERES
+
+```{note}
+
+Créer un tuto sur comment inscrire la session sur CERES
+
+```
+
 ### Les ressources pour aider les apprenants
 
 - Ressources pour préparer l’examen : Ressources
