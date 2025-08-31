@@ -67,7 +67,6 @@ html_favicon = "_static/logos/Label-Ecole-Logo.png"
 html_static_path = ['_static']
 
 html_theme_options = {
-    "analytics_id": "G-V9S9HSF9X0",  # ID Google Analytics (ça marche ?)
     "external_links": [
         {
             "url": "https://deugz.github.io/SP-LE-Mar-CDUI/build/html/index.html",
@@ -122,6 +121,6 @@ html_theme_options = {
 
 
 html_css_files = ["css/custom_style.css", "css/slider.css", "css/flash-card.css",'https://fonts.googleapis.com/css2?family=Fredoka:wght@400;700&family=Montserrat:wght@400;700&display=swap',]
-html_js_files = ["_static/scripts/slider-script.js", "_static/scripts/page-layout.js", "_static/scripts/ga.js",]
+html_js_files = ["_static/scripts/slider-script.js", "_static/scripts/page-layout.js", "scripts/ga.js",]
 
     
