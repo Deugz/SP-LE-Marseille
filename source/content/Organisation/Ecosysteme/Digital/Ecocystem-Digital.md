@@ -64,6 +64,20 @@ Demander le contact à Isaure
 
 - [Safebrand](https://safebrands.zendesk.com/hc/fr-fr)
 
+### Incubateur Belle de Mai
+
+- [Site](https://www.belledemai.org/)
+
+```{note}
+
+grid avec logo
+
+```
+
+<p class="p-emphase">Spécialisé dans l’incubation de projet du domaine des Technologies de l'Information et de la Communication (TIC) et leurs usages</p>
+
+- [Les incubateurs d'entreprises innovantes liés à la recherche publique](https://www.enseignementsup-recherche.gouv.fr/fr/les-incubateurs-d-entreprises-innovantes-lies-la-recherche-publique-46262)
+
 ## Les Entreprises
 
 ### Agences

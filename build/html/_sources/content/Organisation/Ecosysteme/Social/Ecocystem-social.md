@@ -6,6 +6,12 @@ Créer une carte interactive avec les différents organismes / associations en c
 
 ```
 
+## Accompagnement à l'emploi
+
+### DAPE
+
+- [lien plateforme DORA](https://dora.inclusion.beta.gouv.fr/services/cieres-rsa-dape-dispositif-)
+
 ## Numéric'Emploi
 
 - [numeric-emploi.org](https://numeric-emploi.org/)
@@ -28,4 +34,10 @@ Protection Judiciaire de la Jeunesse
 Lire l'article (situé dans Docs) et extraire des infos
 
 ```
+
+## Frip'Insertion
+
+- [Convergence](https://convergence-france.org/)
+
+
 

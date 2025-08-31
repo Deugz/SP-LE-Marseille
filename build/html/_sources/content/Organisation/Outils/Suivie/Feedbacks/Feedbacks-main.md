@@ -6,6 +6,14 @@ Checker comment inclure une copie du resultat du processing du notebook a chaque
 
 ```
 
+```{warning}
+
+Changer l'emplacement du fichier python (dans outil CDUI)
+
+- Créer un nouveau fichier python avec tout les résultats collés
+
+```
+
 
 
 ### Gestion feedbacks

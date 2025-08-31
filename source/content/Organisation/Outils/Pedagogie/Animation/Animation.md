@@ -204,6 +204,14 @@ A inclure :
 
 ::::
 
+
+#### Exemples
+
+
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="Je suis professeur dans l'enseignement Supérieur" frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genially.com/687e3cc7ae887ddd0dd4dc8e" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+
+
+
 ### H5P
 
 ::::{grid}
