@@ -13,10 +13,28 @@ Lien site - plaquette
 
 ```
 
+```{figure} ../../../../../_static/Indicateurs-qualiopi-mindmap/1.1.png
+---
+height: 100%
+name: Qualiopi-1.1
+---
+Qualiopi 1.1
+```
+
+
 ## Indicateur  2
 
 - Opquast
 - Taux de satisfaction (moyenne des feedbacks apprenants)
+
+
+```{figure} ../../../../../_static/Indicateurs-qualiopi-mindmap/1.2.png
+---
+height: 100%
+name: Qualiopi-1.2
+---
+Qualiopi 1.2
+```
 
 
 ## Indicateur  3

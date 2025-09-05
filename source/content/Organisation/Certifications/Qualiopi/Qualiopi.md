@@ -42,7 +42,12 @@ Insérer tableau Julien
 - Faire une synthèse de chacun des feedbacks
     - Créer une fiche de synthèse (checker comment c'est fait à Noisy)
     - prouver que les outputs sont utilisés pour adapter les formations futurs
--  
+
+
+
+## Ressources
+
+- [Liens vers vidéos explicatives](https://certifopac.fr/qualiopi/referentiel/1-information-public/3-obtention-certifications/)
 
 
 

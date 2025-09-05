@@ -21,6 +21,15 @@ Logistique
 - Wikihow (montré dans la prés de rentrée)
 
 
+```{figure} ../../../../../_static/Indicateurs-qualiopi-mindmap/2.9.png
+---
+height: 100%
+name: Qualiopi-2.9
+---
+Qualiopi 2.9
+```
+
+
 ## Indicateur 10
 
 - Tableau de suivie des apprenants (CDP)
@@ -37,6 +46,16 @@ Mettre en place un questionnaire (évaluation formative).
     - adaptation horaires ...
 
 Tableau de suivie de tableau de suivie
+
+```{figure} ../../../../../_static/Indicateurs-qualiopi-mindmap/3.10.png
+---
+height: 100%
+name: Qualiopi-3.10
+
+---
+Qualiopi 3.10
+```
+
 
 ## Indicateur 11
 
@@ -59,7 +78,14 @@ retrouver guide de l'apprenant, guide du formateur et tout autre guide qui pourr
 
 ```
 
+```{figure} ../../../../../_static/Indicateurs-qualiopi-mindmap/3.12.png
+---
+height: 100%
+name: Qualiopi-3.12
 
+---
+Qualiopi 3.12
+```
 
 ##### spécifique cfa (Master)
 

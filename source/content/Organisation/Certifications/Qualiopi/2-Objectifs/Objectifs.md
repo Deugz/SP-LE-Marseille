@@ -22,6 +22,14 @@ Création d'un document réferent (mathilde), qui répertorie toutes les infos
 
 ```
 
+```{figure} ../../../../../_static/Indicateurs-qualiopi-mindmap/2.4.png
+---
+height: 100%
+name: Qualiopi-2.4
+---
+Qualiopi 2.4
+```
+
 ## Indicateur 5
 
 Montrer qu'on a un plan de formation, avec des objectifs en lien avec des compétences et qu'on les évalue
@@ -36,6 +44,15 @@ Modifier les syllabus ?
 
 
 - Comment on les évalue (examens blancs)
+
+
+```{figure} ../../../../../_static/Indicateurs-qualiopi-mindmap/2.5.png
+---
+height: 100%
+name: Qualiopi-2.5
+---
+Qualiopi 2.5
+```
 
 ```{note}
 
@@ -52,6 +69,14 @@ Faire des évaluations sommatives de temps en temps
 - convention de bénévolat
 
 - contrat apprenant ? (modalités pratiques)
+
+```{figure} ../../../../../_static/Indicateurs-qualiopi-mindmap/2.6.png
+---
+height: 100%
+name: Qualiopi-2.6
+---
+Qualiopi 2.6
+```
 
 
 ## Indicateur 7 
